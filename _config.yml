@@ -12,7 +12,7 @@ github_repo: "https://github.com/jiangwayway/jiangwayway.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-vv-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+github_username:    jiangwayway
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -74,10 +74,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 111a69c86b18469c8e6ff56183322fc8
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-G-RBFL677LVY'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CSDN·vv",
+        href: "https://blog.csdn.net/qq_43545653?spm=1000.2115.3001.5343"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "gitee",
+        href: "https://gitee.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "牛客",
+        href: "https://www.nowcoder.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "虎牙",
+        href: "https://www.huya.com/"
     }
 ]
